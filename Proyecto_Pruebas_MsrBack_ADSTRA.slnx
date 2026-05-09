@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="D:/ADSTRA/Adstra_Back/MsrBack/MsrBack.Core/MsrBack.Core.csproj" />
+  <Project Path="D:/ADSTRA/Adstra_Back/MsrBack/MsrBack.Infrastructure/MsrBack.Infrastructure.csproj" />
+  <Project Path="MsrBack.Tests/MsrBack.Tests.csproj" />
+</Solution>
